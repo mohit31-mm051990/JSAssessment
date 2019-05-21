@@ -1,0 +1,26 @@
+{
+    "restaurants": 
+    [{
+        "Haldirams" : {
+        "Address" :
+         {
+             "Address":"sec40",
+             "Street" :"huda market",
+             "City":"Gurgaon"
+            
+        },
+
+        "PhoneNo.": 99387,
+        "Rating":4
+
+    }
+
+        },
+        {"Pirates of Grill":{
+            "Address" : "sec10,Gurgaon",
+            "PhoneNo." : 983733,
+            "Rating" : 3.5
+
+        }
+    }]
+}
